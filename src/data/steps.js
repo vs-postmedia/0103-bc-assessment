@@ -1,6 +1,8 @@
 export default [
-    '#1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <span class="scroll-more">Scroll for more...</span>',
-    '#2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    '#3: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <span class="blue-01">tempor incididunt</span> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <span class="green-01">exercitation ullamco laboris</span> nisi ut aliquip ex ea commodo consequat.',
-    '#4: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+    'The 100 most expensive B.C. properties in 2026 were all located in Metro Vancouver and Whistler. They were assessed with a combined total value of $2.5 trillion for 2026, according to figures released by B.C. Assessment. <span class="scroll-more">Scroll for more...</span>',
+    'Nineteen properties along Belmont Ave. in Point Grey were assessed at a total of $585.8 million.',
+    'Another 16 properties along Point Grey Road were worth a combined $437.8 million.',
+    'Downtown, only two strata properties broke the top 100, with a combined value of $42.6 million.',
+    'Fifteen properties in Whistler were among the most expensive, with a total assessed value of $351.4 million.',
+    ''
 ];

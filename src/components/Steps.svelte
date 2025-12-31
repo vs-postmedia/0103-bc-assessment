@@ -26,18 +26,29 @@
         line-height: 1.25rem;
         opacity: 0.3;
         place-items: center;
+        position: relative;
         transition: opacity 300ms ease;
     }
     .step:first-of-type {
-        top: -50%;
+        top: -10vh;
         opacity: 1;
+    }
+    .step:last-of-type {
+        opacity: 0;
     }
     .step.active {
         opacity: 1;
     }
     .step-content {
         background: rgba(255,255,255,0.85);
+        max-width: 350px;
         padding: 0.75rem 1rem;
-        max-width: 80%;
+        width: 80%;
+    }
+
+    @media only screen and (min-width: 600px) {
+        .step:first-of-type {
+            top: 30vh;
+        }
     }
 </style>
